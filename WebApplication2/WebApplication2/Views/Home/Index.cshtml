@@ -1,0 +1,79 @@
+﻿@model FlightSearchModel
+@{
+    var airports = ViewBag.Airports as List<WebApplication2.Models.Airport>;
+}
+
+<div class="container-fluid bg-primary py-4 mb-4">
+    <div id="carouselExampleSlidesOnly" class="carousel slide mb-4" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://static.euronews.com/articles/stories/08/11/36/98/1920x1080_cmsv2_dec5b23d-784a-5a72-8d5f-5b7f8e9c1463-8113698.jpg" class="d-block w-100" alt="First slide">
+            </div>
+            <div class="carousel-item">
+                <img src="https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2046000/thy-2047810.jpg" class="d-block w-100" alt="Second slide">
+            </div>
+        </div>
+    </div>
+    <form action="@Url.Action("Search", "Home")" method="post">
+        <div class="row">
+            <div class="col-md-3 mb-3">
+                <label for="DepartureCity" class="form-label text-white">Departure City:</label>
+                <select id="DepartureCity" name="DepartureCity" class="form-select">
+                    @foreach (var airport in airports)
+                    {
+                        <option value="@airport.Code">@airport.Name (@airport.Code)</option>
+                    }
+                </select>
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <label for="DestinationCity" class="form-label text-white">Destination City:</label>
+                <select id="DestinationCity" name="DestinationCity" class="form-select">
+                    @foreach (var airport in airports)
+                    {
+                        <option value="@airport.Code">@airport.Name (@airport.Code)</option>
+                    }
+                </select>
+            </div>
+
+            <div class="col-md-2 mb-3">
+                <label for="DepartureDate" class="form-label text-white">Departure Date:</label>
+                <input type="date" id="DepartureDate" name="DepartureDate" value="@Model.DepartureDate.ToString("yyyy-MM-dd")" class="form-control">
+            </div>
+
+            <div id="returnDateContainer" class="col-md-2 mb-3" @(Model.RoundTrip ? "" : "style='display:none;'")>
+                <label for="ReturnDate" class="form-label text-white">Return Date:</label>
+                <input type="date" id="ReturnDate" name="ReturnDate" value="@Model.ReturnDate?.ToString("yyyy-MM-dd")" class="form-control">
+            </div>
+
+            <div class="col-md-2 mb-3">
+                <label for="PassengerCount" class="form-label text-white">Passenger Count:</label>
+                <input type="number" id="PassengerCount" name="PassengerCount" value="@Model.PassengerCount" class="form-control">
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <label for="RoundTrip" class="form-label text-white">Round Trip:</label>
+                <input type="checkbox" id="RoundTrip" name="RoundTrip" class="form-check-input" @(Model.RoundTrip ? "checked" : "")>
+            </div>
+
+            <div class="col-md-12">
+                <button type="submit" class="btn btn-light">Search</button>
+            </div>
+        </div>
+    </form>
+
+    @section Scripts {
+        <script>
+            $(function () {
+                // Initially hide or show return date container based on RoundTrip checkbox
+                $('#returnDateContainer').toggle($('#RoundTrip').prop('checked'));
+
+                // Update hidden input value when RoundTrip checkbox state changes
+                $('#RoundTrip').change(function () {
+                    $('#RoundTrip').val(this.checked ? 'true' : '');
+                    $('#returnDateContainer').toggle(this.checked);
+                });
+            });
+        </script>
+    }
+

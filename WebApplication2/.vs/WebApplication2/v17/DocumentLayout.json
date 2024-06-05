@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\services\\airsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\airsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\models\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\models\\flightsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\flightsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\views\\home\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|c:\\users\\semih\\source\\repos\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A796B307-748A-4A24-8C30-5724FE271522}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Airport.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Airport.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Airport.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Airport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:30:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightSearchModel.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Models\\FlightSearchModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\FlightSearchModel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Models\\FlightSearchModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\FlightSearchModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:54:57.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\FlightController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:44:13.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Services\\AirSearchService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\AirSearchService.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Services\\AirSearchService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\AirSearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:48:54.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T23:44:17.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Results.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Results.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Results.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Results.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Results.cshtml",
+              "ViewState": "AQIAAFgAAAAAAAAAAAArwG4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T00:59:46.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Models\\SearchResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\SearchResponse.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Models\\SearchResponse.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\SearchResponse.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvyAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:07:52.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:09:50.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:56:04.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T17:30:21.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T00:56:11.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
